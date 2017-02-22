@@ -1,0 +1,76 @@
+
+ ROW ID  :monday
+tempereture  - Celsius  humidity  - %  wind_Speed  - ms-1
+
+london - description :     few clouds
+london - tempereture :     11.732000000000028
+london - wind_Speed :     5.69
+london - humidity :     67
+
+newyork - description :     clear sky
+newyork - tempereture :     11.982000000000028
+newyork - wind_Speed :     6.56
+newyork - humidity :     84
+
+colombo - description :     broken clouds
+colombo - tempereture :     25.75700000000001
+colombo - wind_Speed :     3.66
+colombo - humidity :     100
+
+
+ ROW ID  :sunday
+tempereture  - Celsius  humidity  - %  wind_Speed  - ms-1
+
+london - description :     overcast clouds
+london - tempereture :     9.906000000000006
+london - wind_Speed :     5.25
+london - humidity :     76
+
+newyork - description :     clear sky
+newyork - tempereture :     14.706000000000017
+newyork - wind_Speed :     6.0
+newyork - humidity :     74
+
+colombo - description :     light rain
+colombo - tempereture :     24.710000000000036
+colombo - wind_Speed :     3.64
+colombo - humidity :     100
+
+
+ ROW ID  :tuesday
+tempereture  - Celsius  humidity  - %  wind_Speed  - ms-1
+
+london - description :     overcast clouds
+london - tempereture :     9.906000000000006
+london - wind_Speed :     5.25
+london - humidity :     76
+
+newyork - description :     clear sky
+newyork - tempereture :     14.706000000000017
+newyork - wind_Speed :     6.0
+newyork - humidity :     74
+
+colombo - description :     light rain
+colombo - tempereture :     23.80600000000004
+colombo - wind_Speed :     3.4
+colombo - humidity :     100
+
+
+ ROW ID  :wednsday
+tempereture  - Celsius  humidity  - %  wind_Speed  - ms-1
+
+london - description :     overcast clouds
+london - tempereture :     9.906000000000006
+london - wind_Speed :     5.25
+london - humidity :     76
+
+newyork - description :     clear sky
+newyork - tempereture :     14.706000000000017
+newyork - wind_Speed :     6.0
+newyork - humidity :     74
+
+colombo - description :     light rain
+colombo - tempereture :     23.80600000000004
+colombo - wind_Speed :     3.4
+colombo - humidity :     100
+

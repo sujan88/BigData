@@ -1,0 +1,27 @@
+-Read me file-
+
+put MapreduceProject.zip in any location
+unzip the zip file
+go into the MapreduceProject folder using Terminal
+run crystalball.sh file as below;
+sh ./crystalball.sh <arg1> <arg2> <arg3>
+example :   sh ./crystalball.sh input output_hybride hybride
+
+abouve three arguemnts are as below;
+arg1 = hadoop input folder name (any folder name) eg : input
+arg2 = hadoop output folder name (any folder name) eg : output_pair
+arg3 = job name. Posible values (stripe , pair , hybrid). For arg3 user has to add one of these three values. 
+ eg : stripe 
+
+Then above batch file will be run as following order.
+
+1 remove old jars in local folder created by user
+2 create jar file accouding arg3 (job name).
+3 remove project folder from hadoop
+4 create new project folder from hadoop accouding to arg1 (input folder)
+5 copy input file into hadoop input folder as arg1 (input folder).
+6 run jar file  enteared as arg3. (stripe or pair or hybride). here input and ouput folder path set as agrguments.
+7 remove output folder from local.
+8 copy hadoop output results folder into local ouputfolder.
+
+--------END----------------------------------------

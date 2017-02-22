@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: sujan
+Main-Class: edu.mum.bigdata.spark.lettercount.LetterCountSpark
+
